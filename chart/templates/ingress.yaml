@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: gitops.arshsharma.com
+    - host: gitops.deerwald.com
       http:
         paths:
           - path: /
